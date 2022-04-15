@@ -11,7 +11,6 @@ import (
 func main() {
 	router := gin.Default()
 	config.InitDb()
-	config.InitDb()
 
 	router.GET("/", func(c *gin.Context) {
 		c.JSON(http.StatusOK, gin.H{"data": "first APi"})
