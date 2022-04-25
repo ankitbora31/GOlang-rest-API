@@ -52,7 +52,6 @@ The GORM is fantastic ORM library for Golang, aims to be developer friendly. It 
 
 ##  :camera: Gallery
 <h3>run main.go</h3>
-![Screenshot 2022-04-09 184707](https://user-images.githubusercontent.com/59395624/162575781-a459f8bd-67e9-4e53-8ddd-1178bf4f1706.png)
 
 <h3>Testing in Postman</h3>
 
